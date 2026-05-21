@@ -4,7 +4,7 @@ AI-guided de novo protein binder design against a conserved extracellular CD39 e
 
 ## Project Overview
 
-This project aimed to identify conserved and structurally accessible CD39 epitope regions and generate de novo mini-protein binders, antibodies, and nanobodies targeting the selected epitope using PPIFlow. Generated binders were evaluated through computational binding affinity screening and structural validation.
+This project aimed to computationally identify accessible epitope regions on tetrameric CD39 and generate de novo mini-protein, IgG antibody, and nanobody binders using PPIFlow. The designed binders were then evaluated based on predicted binding affinity and structural stability.
 
 ## Workflow
 
