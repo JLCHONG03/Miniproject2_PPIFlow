@@ -29,6 +29,4 @@ python sample_binder.py \
 \
 # Output directory for generated mini-protein binders
 --output_dir /mnt/JL_Chong/PPIFlow-main/output/CD39_binder \
-\
-# Output file prefix
 --name CD39_binder
