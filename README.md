@@ -32,7 +32,7 @@ Contains representative computational outputs:
 - PPIFlow-generated structures (`.pdb`)
 - AlphaFold3-refined structures (`.cif`)
 - Prodigy affinity screening results (`.csv`)
-- Structural comparison figures (`.png`)
+- Validation figures, affinity ranking plots, and sequence comparison visualizations (.png)
 - Extracted sequence summaries
 
 ## Software and Tools
