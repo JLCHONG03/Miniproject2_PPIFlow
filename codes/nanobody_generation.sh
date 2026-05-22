@@ -1,3 +1,4 @@
+#!/bin/bash
 python sample_antibody_nanobody.py \
 --antigen_pdb /mnt/JL_Chong/CD39_tetramer.pdb \
 --framework_pdb /mnt/JL_Chong/PPIFlow-main/Framework/8coh_nanobody_framework_G.pdb \
