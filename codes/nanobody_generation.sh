@@ -29,6 +29,4 @@ python sample_antibody_nanobody.py \
 \
 # Output directory for generated nanobody binders
 --output_dir /mnt/JL_Chong/PPIFlow-main/output/CD39_nanobody \
-\
-# Output file prefix
 --name CD39_nanobody
