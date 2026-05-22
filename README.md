@@ -45,11 +45,3 @@ Contains representative computational outputs:
 - PyMol
 - Biopython
 
-## Notes
-
-All binding affinities and structural interactions reported in this project are computational predictions and have not been experimentally validated.
-
-## Author
-
-Junliang Chong  
-CMML ICA2 Mini Project
