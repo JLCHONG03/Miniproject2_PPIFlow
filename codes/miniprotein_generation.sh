@@ -1,3 +1,4 @@
+#!/bin/bash
 python sample_binder.py \
 --input_pdb /mnt/JL_Chong/CD39_tetramer.pdb \
 --target_chain A \
