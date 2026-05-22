@@ -7,5 +7,5 @@ python sample_antibody_nanobody.py \
 --config /mnt/JL_Chong/PPIFlow-main/configs/inference_nanobody.yaml \
 --model_weights /mnt/JL_Chong/PPIFlow-main/ckpts/nanobody.ckpt \
 --output_dir /mnt/JL_Chong/PPIFlow\
--main/output/ \
+-main/output/ /mnt/JL_Chong/PPIFlow-main/output/CD39_nanobody \
 --name CD39_nanobody
